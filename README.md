@@ -1,5 +1,5 @@
 
-## *Oi, eu sou o Taylor* ✌️
+## *Oi, eu sou o Taylor Oliveira* ✌️
 
 Um desenvolvedor Java Pleno apaixonado pelo Spring💚. Estou em busca da minha primeira certificação Java. 
 
