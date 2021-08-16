@@ -1,10 +1,10 @@
 
 ## *Oi, eu sou o Taylor Oliveira* ✌️
 
-Um desenvolvedor Java Pleno apaixonado pelo Spring💚. Estou em busca da minha primeira certificação Java. 
+Um desenvolvedor Java pleno apaixonado pelo Spring💚 e em busca da minha primeira certificação Java. 
 
- - ⭐ Estudando Arquitetura de Micro serviços
- - 🔥 Trabalhando nos Sistema Eleitorais do TRE-TO
+ - ⭐ Apaixonado por novas tecnologias
+ - 🔥 Software Engennir at Tribanco
 
 Gosto de me aventurar em novas tecnologias e linguagens, estudei Angular e React por diversão e acabei trabalhando profissionalmente por um período de tempo. 
 ***Hoje meu principal objetivo é me especializar em Java e conhecer a fundo o poder do Spring Microservices.***
